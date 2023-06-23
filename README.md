@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 <!--
-**PreciousNicholas/PreciousNicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PreciousNicholas/PreciousNicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
 I'm a junior dev./trainee @ PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower. I am also a student.
 I have 6 months  experience as a junior developer, writing software,with these technologies:
 -Languages:javascript
 -frameworks:Angular and React
 -Tools:git 
--->
+
 ### Summary
 
 - 📚 Precious's blogs:[Hashnode.dev](https://supercoder11.hashnode.dev/)[Medium.com](https://medium.com/@nichcholasprecious) [Dev.to](https://dev.to/preciousnicholas)

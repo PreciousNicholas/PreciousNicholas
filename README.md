@@ -16,7 +16,6 @@ I have 6 months  experience as a junior developer, writing software,with these t
 - 🤔 I’m looking for help with Data Science, System Security,Advanced Engineering Maths and Javascript frameworks
 - 💬 Ask me about .Idea,building a complete product and teamwork..
 - 📫 How to reach me:  [Twitter](https://twitter.com/NicholasPreci18) .or [LinkedIn](https://www.linkedin.com/in/nicholas-precious-19697525b/)
-..
 - 😄 Pronouns: She/Her...
 - ⚡ Fun fact: .I share same birthday with a Famous Hollywood Actress Anna Kendrick..
 -->

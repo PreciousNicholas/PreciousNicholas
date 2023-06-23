@@ -7,6 +7,7 @@ I have 6 months  experience as a junior developer, writing software,with these t
 -Languages:javascript
 -frameworks:Angular and React
 -Tools:git 
+-->
 ### Summary
 
 - 📚 Precious's blogs:[Hashnode.dev](https://supercoder11.hashnode.dev/)[Medium.com](https://medium.com/@nichcholasprecious) [Dev.to](https://dev.to/preciousnicholas)
@@ -18,7 +19,7 @@ I have 6 months  experience as a junior developer, writing software,with these t
 - 📫 How to reach me:  [Twitter](https://twitter.com/NicholasPreci18) .or [LinkedIn](https://www.linkedin.com/in/nicholas-precious-19697525b/)
 - 😄 Pronouns: She/Her...
 - ⚡ Fun fact: .I share same birthday with a Famous Hollywood Actress Anna Kendrick..
--->
+  
 My regular tasks involves:
 -Testing software products built in my company before deloying it
 -Discovering, evaluating and implementing new technologies that yield a competitive advantage

@@ -5,8 +5,8 @@
 
 I'm a junior dev./trainee @ PMT, the largest mass transit and logistic company in West and Central Africa with over 3,000 vehicles and 5,000 manpower. I am also a student.
 I have 6 months  experience as a junior developer, writing software,with these technologies:
--Languages:javascript
--frameworks:Angular and React
+-Languages: HTML5,CSS3,javascript
+-frameworks: Bootstrap,Angular and React
 -Tools:git 
 
 ### Summary
@@ -20,8 +20,12 @@ I have 6 months  experience as a junior developer, writing software,with these t
 - 📫 How to reach me:  [Twitter](https://twitter.com/NicholasPreci18) .or [LinkedIn](https://www.linkedin.com/in/nicholas-precious-19697525b/)
 - 😄 Pronouns: She/Her...
 - ⚡ Fun fact: .I share same birthday with a Famous Hollywood Actress Anna Kendrick..
-  
-My regular tasks involves:
+  ### Recent Articles:
+-Notes On JavaScript Objects
+-Notes On JavaScript Arrays
+-Relationship between a Software Developer and a Product Manager
+-SDLC (Software Development Life Cycle) for a Transport and Travel System
+### My Regular Tasks Involves:
 -Testing software products built in my company before deloying it
 -Discovering, evaluating and implementing new technologies that yield a competitive advantage
 -Learning, Adapting, and Managing crises
